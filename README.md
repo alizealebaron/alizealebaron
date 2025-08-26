@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alizéa Lebaron
-- Student in University's IT Department (Le Havre)
+- Former student in University's IT Department
 - Programming in Java, PHP, HTML, CSS and Javascript
 
 <div>
