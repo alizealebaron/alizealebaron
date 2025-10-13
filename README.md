@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alizéa Lebaron
-- Former student in 42 Le Havre
+- Student in 42 Le Havre
 - Programming in Java, PHP, HTML, CSS and Javascript
 
 <div>
