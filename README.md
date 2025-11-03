@@ -1,9 +1,27 @@
-- 👋 Hi, I’m Alizéa Lebaron
-- Student in 42 Le Havre
-- Programming in Java, PHP, HTML, CSS and Javascript
+# 👋 Hi, I’m Alizéa Lebaron
 
-<div>
-  <a href="https://www.youtube.com/watch?v=mQJ6q1ZCzsg"><img height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizealebaron&layout=compact&langs_count=8&theme=radical" /></a>
+<div align="center">
+    <h2>Stats</h2>
+    <table style="height: 100%; width: 100%;">
+        <tr style="height: 50%;">
+            <td style="vertical-align: stretch; height: 100%;">
+                <img src="https://github-readme-stats.vercel.app/api?username=alizealebaron&hide_border=true&border_radius=15&show_icons=true&theme=tokyonight" alt="alizealebaron's GitHub stats" style="height: 100%; width: 100%; object-fit: cover;">
+            </td>
+            <td style="vertical-align: stretch; height: 100%;">
+                <img width=100% height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizealebaron&hide=html&hide_border=true&border_radius=8&layout=compact&langs_count=8&theme=tokyonight" alt="alizealebaron's Most Used Languages" style="height: 100%; width: 100%; object-fit: cover;">
+            </td>
+        </tr>
+        <tr style="height: 50%;">
+            <td style="vertical-align: stretch; height: 100%;">
+                <img width=96% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alizealebaron&hide_border=true&border_radius=15&theme=tokyonight" alt="alizealebaron's GitHub graph" style="height: 100%; width: 100%; object-fit: cover;">
+            </td>
+            <td style="vertical-align: stretch; height: 100%;">
+                <a href="https://profile.intra.42.fr/users/alizealebaron">
+                    <img src="https://badge.mediaplus.ma/darkblue/alizealebaron?1337Badge=off&UM6P=off" alt="alizealebaron" style="height: 100%; width: 100%; object-fit: cover;">
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <!---
