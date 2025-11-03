@@ -17,7 +17,7 @@
             </td>
             <td style="vertical-align: stretch; height: 100%;">
                 <a href="https://profile.intra.42.fr/users/alizealebaron">
-                    <img src="https://badge.mediaplus.ma/darkblue/alizealebaron?1337Badge=off&UM6P=off" alt="alizealebaron" style="height: 100%; width: 100%; object-fit: cover;">
+                    <img src="https://badge.mediaplus.ma/darkblue/alebaron?1337Badge=off&UM6P=off" alt="alebaron" style="height: 100%; width: 100%; object-fit: cover;">
                 </a>
             </td>
         </tr>
