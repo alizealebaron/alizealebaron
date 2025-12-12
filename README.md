@@ -5,11 +5,14 @@
 <h2>Projets 42</h2>
 
 <div align="center">
-	<a href="https://github.com/alizealebaron/Born2beroot"><img src="assets/b2br_simple.png" width="230" alt="Icone b2br"/></a>
+<h3>Ancien tronc commun</h3>
+	<a href="https://github.com/alizealebaron/Born2beroot"><img src="assets/b2br_simple.png" width="150" alt="Icone b2br"/></a>
     &nbsp;
-    <a href="https://github.com/alizealebaron/so_long"><img src="assets/so-long_simple.png" width="230" alt="Icone so_long"/></a>
+    <a href="https://github.com/alizealebaron/so_long"><img src="assets/so-long_simple.png" width="150" alt="Icone so_long"/></a>
     &nbsp;
-    <a href="https://github.com/alizealebaron/push_swap"><img src="assets/push-swap_simple.png" width="230" alt="Icone push_swap"/></a>
+    <a href="https://github.com/alizealebaron/push_swap"><img src="assets/push-swap_simple.png" width="150" alt="Icone push_swap"/></a>
+<h3>Nouveau tronc commun</h3>
+	<a href="https://github.com/alizealebaron/python_module"><img src="assets/python-module_simple.png" width="150" alt="Icone python"/></a>
 </div>
 
 <h2>Stats</h2>
