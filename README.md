@@ -13,9 +13,9 @@
     <br>
     <a href="https://github.com/alizealebaron/ft_printf"><img src="assets/ft-printf_simple.png" width="150" alt="Icone printf"/></a>
     &nbsp;
-    <a href="https://github.com/alizealebaron/so_long"><img src="assets/so-long_simple.png" width="150" alt="Icone so_long"/></a>
-    &nbsp;
     <a href="https://github.com/alizealebaron/push_swap"><img src="assets/push-swap_simple.png" width="150" alt="Icone push_swap"/></a>
+    &nbsp;
+    <a href="https://github.com/alizealebaron/so_long"><img src="assets/so-long_simple.png" width="150" alt="Icone so_long"/></a>
 <h3>Nouveau tronc commun (> Décembre 2025)</h3>
 	<a href="https://github.com/alizealebaron/python_module"><img src="assets/python-module_simple.png" width="150" alt="Icone python"/></a>
 </div>
