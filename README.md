@@ -5,7 +5,7 @@
 
 <div align="center">
 <h3>Ancien tronc commun (< Décembre 2025)</h3>
-    <a href="https://github.com/alizealebaron/libft"><img src="assets/libft_bonus.png" width="150" alt="Icone libft"/></a>
+    <a href="https://github.com/alizealebaron/libft"><img src="assets/libft_bonus.png" width="145" alt="Icone libft"/></a>
     &nbsp;
 	<a href="https://github.com/alizealebaron/Born2beroot"><img src="assets/b2br_simple.png" width="150" alt="Icone b2br"/></a>
     &nbsp;
