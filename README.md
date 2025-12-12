@@ -1,6 +1,17 @@
 # 👋 Hi, I’m Alizéa Lebaron
 
 <div align="center">
+
+    <h2>Projets 42</h2>
+
+    <div align="center">
+		<a href="https://github.com/alizealebaron/Born2beroot"><img src="assets/b2br_simple.png" width="230" alt="Icone b2br"/></a>
+        &nbsp;
+        <a href="https://github.com/alizealebaron/so_long"><img src="assets/so-long_simple.png" width="230" alt="Icone so_long"/></a>
+        &nbsp;
+        <a href="https://github.com/alizealebaron/push_swap"><img src="assets/push-swap_simple.png" width="230" alt="Icone push_swap"/></a>
+    </div>
+
     <h2>Stats</h2>
     <table style="height: 100%; width: 100%;">
         <tr style="height: 50%;">
