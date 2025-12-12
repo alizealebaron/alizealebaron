@@ -10,7 +10,7 @@
     <a href="https://github.com/alizealebaron/get_next_line"><img src="assets/gnl_simple.png" width="150" alt="Icone gnl"/></a>
     &nbsp;
 	<a href="https://github.com/alizealebaron/Born2beroot"><img src="assets/b2br_simple.png" width="150" alt="Icone b2br"/></a>
-    &nbsp;
+    <br>
     <a href="https://github.com/alizealebaron/ft_printf"><img src="assets/ft-printf_simple.png" width="150" alt="Icone printf"/></a>
     &nbsp;
     <a href="https://github.com/alizealebaron/so_long"><img src="assets/so-long_simple.png" width="150" alt="Icone so_long"/></a>
