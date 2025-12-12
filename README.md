@@ -11,6 +11,8 @@
     &nbsp;
 	<a href="https://github.com/alizealebaron/Born2beroot"><img src="assets/b2br_simple.png" width="150" alt="Icone b2br"/></a>
     &nbsp;
+    <a href="https://github.com/alizealebaron/ft_printf"><img src="assets/ft-printf_simple.png" width="150" alt="Icone printf"/></a>
+    &nbsp;
     <a href="https://github.com/alizealebaron/so_long"><img src="assets/so-long_simple.png" width="150" alt="Icone so_long"/></a>
     &nbsp;
     <a href="https://github.com/alizealebaron/push_swap"><img src="assets/push-swap_simple.png" width="150" alt="Icone push_swap"/></a>
