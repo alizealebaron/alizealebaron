@@ -1,23 +1,35 @@
 <div align="center">
 <h1>👋 Hi, I’m Alizéa Lebaron</h1>
 
-<h2>Projets 42</h2>
-
 <div align="center">
-<h3>Ancien tronc commun (< Décembre 2025)</h3>
-    <a href="https://github.com/alizealebaron/libft"><img src="assets/libft_bonus.png" width="145" alt="Icone libft"/></a>
-    &nbsp;
-    <a href="https://github.com/alizealebaron/get_next_line"><img src="assets/gnl_simple.png" width="150" alt="Icone gnl"/></a>
-    &nbsp;
-	<a href="https://github.com/alizealebaron/Born2beroot"><img src="assets/b2br_bonus.png" width="145" alt="Icone b2br"/></a>
-    <br>
-    <a href="https://github.com/alizealebaron/ft_printf"><img src="assets/ft-printf_simple.png" width="150" alt="Icone printf"/></a>
-    &nbsp;
-    <a href="https://github.com/alizealebaron/push_swap"><img src="assets/push-swap_simple.png" width="150" alt="Icone push_swap"/></a>
-    &nbsp;
-    <a href="https://github.com/alizealebaron/so_long"><img src="assets/so-long_simple.png" width="150" alt="Icone so_long"/></a>
-<h3>Nouveau tronc commun (> Décembre 2025)</h3>
-	<a href="https://github.com/alizealebaron/python_module"><img src="assets/python-module_simple.png" width="150" alt="Icone python"/></a>
+
+<h2>🏛️ Ancien tronc commun (< Décembre 2025)</h2>
+
+| Logo | Titre | Description | Technologies |
+| :---: | :--- | :--- | :---: |
+| <img src="assets/libft.png" width="40"> | **[Libft](https://github.com/alizealebaron/libft)** | Ma première librairie en C. | `C` |
+| <img src="assets/get_next_line.png" width="40"> | **[Get_next_line](https://github.com/alizealebaron/get_next_line)** | Apprendre à lire les fichiers en C. | `C` |
+| <img src="assets/b2br.png" width="40"> | **[Born2beroot](https://github.com/alizealebaron/Born2beroot)** | Mise en place d'une machine virtuelle. | `Debian` |
+| <img src="assets/ft-printf.png" width="40"> | **[Ft_printf](https://github.com/alizealebaron/ft_printf)** | Reproduction de la fonction printf. | `C` |
+| <img src="assets/push-swap_simple.png" width="40"> | **[Push_swap](https://github.com/alizealebaron/push_swap)** | Apprendre à trier efficacement les piles. | `C` |
+| <img src="assets/so-long_simple.png" width="40"> | **[So_long](https://github.com/alizealebaron/so_long)** | Un premier essaie de jeu vidéo simple. | `C` |
+
+
+<h2>✨ Nouveau tronc commun (> Décembre 2025)</h2>
+
+| Logo | Titre | Description | Technologies |
+| :---: | :--- | :--- | :---: |
+| <img src="assets/python-module_simple.png" width="40"> | **[Python_Module](https://github.com/alizealebaron/python_module)** | 11 modules pour apprendre python. | `Python` |
+| <img src="assets/a-maze-ing_simple.png" width="40"> | **[A_maze_ing](https://github.com/alizealebaron)** | Génération de labyrinthe en python (a venir). | `Python` |
+| <img src="assets/codexion_simple.png" width="40"> | **[Codexion](https://github.com/alizealebaron/codexion)** | Gérer un problème avec des threads. | `C` |
+
+---
+
+## 🛠️ Langages et Outils
+![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,html,css,js,git,docker,linux)
+
+---
+
 </div>
 
 <h2>Stats</h2>
@@ -42,6 +54,9 @@
         </tr>
     </table>
 </div>
+
+---
+*Dernière mise à jour : Février 2026*
 
 <!---
 alizealebaron/alizealebaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
