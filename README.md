@@ -20,7 +20,7 @@
 | Logo | Titre | Description | Technologies |
 | :---: | :--- | :--- | :---: |
 | <img src="assets/python-module_simple.png" width="40"> | **[Python_Module](https://github.com/alizealebaron/python_module)** | 11 modules pour apprendre python. | `Python` |
-| <img src="assets/a-maze-ing_simple.png" width="40"> | **[A_maze_ing](https://github.com/alizealebaron)** | Génération de labyrinthe en python (a venir). | `Python` |
+| <img src="assets/a-maze-ing_simple.png" width="40"> | **[A_maze_ing](https://github.com/alizealebaron/a_maze_ing)** | Génération de labyrinthe en python. | `Python` |
 | <img src="assets/codexion_simple.png" width="40"> | **[Codexion](https://github.com/alizealebaron/codexion)** | Gérer un problème avec des threads. | `C` |
 
 ---
