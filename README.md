@@ -21,6 +21,7 @@
 | :---: | :--- | :--- | :---: |
 | <img src="assets/python-module.png" width="40"> | **[Python_Module](https://github.com/alizealebaron/python_module)** | 11 modules pour apprendre python. | `Python` |
 | <img src="assets/a-maze-ing_simple.png" width="40"> | **[A_maze_ing](https://github.com/alizealebaron/a_maze_ing)** | Génération de labyrinthe en python. | `Python` |
+| <img src="assets/fly-in.png" width="40"> | **[Fly-in](https://github.com/alizealebaron/fly-in)** | Optimisation d'algorithmes dans un graph. | `Python` |
 | <img src="assets/codexion_simple.png" width="40"> | **[Codexion](https://github.com/alizealebaron/codexion)** | Gérer un problème avec des threads. | `C` |
 
 ---
