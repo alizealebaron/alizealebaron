@@ -35,9 +35,7 @@
 
 </div>
 
-<div align="center">
 ![profile count](https://komarev.com/ghpvc/?username=alizealebaron&color=red)&nbsp;
-</div>
 
 <h2>Stats</h2>
     <table style="height: 100%; width: 100%;">
