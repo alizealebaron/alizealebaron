@@ -35,6 +35,10 @@
 
 </div>
 
+<div align="center">
+![profile count](https://komarev.com/ghpvc/?username=alizealebaron&color=red)&nbsp;
+</div>
+
 <h2>Stats</h2>
     <table style="height: 100%; width: 100%;">
         <tr style="height: 50%;">
@@ -59,7 +63,7 @@
 </div>
 
 ---
-*Dernière mise à jour : Février 2026*
+*Dernière mise à jour : Mai 2026*
 
 <!---
 alizealebaron/alizealebaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
