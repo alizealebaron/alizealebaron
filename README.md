@@ -35,8 +35,6 @@
 
 </div>
 
-![profile count](https://komarev.com/ghpvc/?username=alizealebaron&color=red)&nbsp;
-
 <h2>Stats</h2>
     <table style="height: 100%; width: 100%;">
         <tr style="height: 50%;">
@@ -59,6 +57,8 @@
         </tr>
     </table>
 </div>
+
+![profile count](https://komarev.com/ghpvc/?username=alizealebaron&color=red)&nbsp;
 
 ---
 *Dernière mise à jour : Mai 2026*
