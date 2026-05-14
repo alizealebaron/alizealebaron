@@ -29,7 +29,7 @@
 ---
 
 ## 🛠️ Langages et Outils
-![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,html,css,js,git,docker,linux)
+![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,html,css,js,git,docker,linux,photoshop,illustrator)
 
 ---
 
