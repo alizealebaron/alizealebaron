@@ -24,7 +24,7 @@
 | <img src="assets/fly-in.png" width="40"> | **[Fly-in](https://github.com/alizealebaron/fly-in)** | Optimisation d'algorithmes dans un graph. | `Python` |
 | <img src="assets/call_me_maybe.png" width="40"> | **[Call_me_maybe](https://github.com/alizealebaron/call_me_maybe)** | Introduction aux LLM. | `Python` |
 | <img src="assets/codexion_simple.png" width="40"> | **[Codexion](https://github.com/alizealebaron/codexion)** | Gérer un problème avec des threads. | `C` |
-| <img src="assets/rag.png" width="40"> | **[RAG against the machine](https://github.com/alizealebaron/RAG_against_the_machine)** | A venir. | `Python` |
+| <img src="assets/rag.png" width="40"> | **[RAG against the machine](https://github.com/alizealebaron/RAG_against_the_machine)** | Développement d'un RAG. | `Python` |
 | <img src="assets/pac_man.png" width="40"> | **[Pac_man](https://github.com/alizealebaron/pac_man)** | Recréer un jeu mythiquement connu. | `Python` |
 | <img src="assets/net_Practice.png" width="40"> | **[NetPractice](https://github.com/alizealebaron/netPractice)** | Configuration de petit réseau. | `Réseau` |
 
