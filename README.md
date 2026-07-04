@@ -63,7 +63,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=alizealebaron&color=red)&nbsp;
 
 ---
-*Dernière mise à jour : Mai 2026*
+**Contact :** alebaron@student.42lehavre.fr
 
 <!---
 alizealebaron/alizealebaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
