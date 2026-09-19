@@ -33,7 +33,7 @@
 ---
 
 ## 🛠️ Langages et Outils
-![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,html,css,js,git,docker,linux,photoshop,illustrator)
+![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,go,html,css,js,git,docker,linux,photoshop,illustrator)
 
 ---
 
