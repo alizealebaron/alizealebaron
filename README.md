@@ -67,18 +67,14 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
 
 <details>
 <summary><h3 style="display: inline;">BUT Informatique · 3 projets</h3></summary>
-<br>
-
 <div align="center">
 
 | Titre | Description | Technologies |
 | :--- | :--- | :---: |
-| **[Malen](https://github.com/alizealebaron/Malen)** | Reproduire Paint mais en Java. | `Java` |
+| **[Malen](https://github.com/alizealebaron/Malen)** | Reproduire Paint en Java. | `Java` |
 | **[ASTRE](https://github.com/alizealebaron/ASTRE)** | Développer une première application utilitaire en Java. | `Java` |
 | **[CinkeTera](https://github.com/alizealebaron/CinkeTera)** | Reproduire un jeu de plateau à l'aide de Java. | `Java` |
-
 </div>
-
 </details>
 
 ## Mes statistiques
