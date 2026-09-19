@@ -1,9 +1,43 @@
 <div align="center">
-<h1>👋 Hi, I’m Alizéa Lebaron</h1>
+	<h1>👋 Hi, I’m Alizéa Lebaron</h1>
+</div>
+
+<p align="center">
+<img width="736" height="414" alt="Chicory game wallpaper" src="assets/chicory_up.jpg" />
+</p>
+
+## À propos de moi
+
+Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtriser de nouveaux langages de programmation. J'apprécie tout particulièrement le développement web et les langages de programmation orientés objets.
+
+## Mes compétences
 
 <div align="center">
 
-<h2>🏛️ Ancien tronc commun (< Décembre 2025)</h2>
+![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,html,css,js,git,docker,linux,photoshop,illustrator)
+
+</div>
+
+## Mes projets
+
+<p align="center">
+  <em>Une sélection de projets réalisés pendant mon parcours à 42 Le Havre et en BUT Informatique.</em>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>14</strong><br>Projets 42</td>
+    <td align="center"><strong>3</strong><br>Projets BUT</td>
+    <td align="center"><strong>12</strong><br>Technologies explorées</td>
+  </tr>
+</table>
+
+<details>
+<summary><h3 style="display: inline;">Cursus 42 · 14 projets</h3></summary>
+<br>
+
+<div align="center">
+<h4>🏛️ Ancien tronc commun (avant décembre 2025)</h4>
 
 | Logo | Titre | Description | Technologies |
 | :---: | :--- | :--- | :---: |
@@ -12,61 +46,63 @@
 | <img src="assets/b2br.png" width="40"> | **[Born2beroot](https://github.com/alizealebaron/Born2beroot)** | Mise en place d'une machine virtuelle. | `Debian` |
 | <img src="assets/ft-printf.png" width="40"> | **[Ft_printf](https://github.com/alizealebaron/ft_printf)** | Reproduction de la fonction printf. | `C` |
 | <img src="assets/push-swap_simple.png" width="40"> | **[Push_swap](https://github.com/alizealebaron/push_swap)** | Apprendre à trier efficacement les piles. | `C` |
-| <img src="assets/so-long_simple.png" width="40"> | **[So_long](https://github.com/alizealebaron/so_long)** | Un premier essaie de jeu vidéo simple. | `C` |
+| <img src="assets/so-long_simple.png" width="40"> | **[So_long](https://github.com/alizealebaron/so_long)** | Un premier essai de jeu vidéo simple. | `C` |
 
 
-<h2>✨ Nouveau tronc commun (> Décembre 2025)</h2>
+<h4>✨ Nouveau tronc commun (à partir de décembre 2025)</h4>
 
 | Logo | Titre | Description | Technologies |
 | :---: | :--- | :--- | :---: |
-| <img src="assets/python-module.png" width="40"> | **[Python_Module](https://github.com/alizealebaron/python_module)** | 11 modules pour apprendre python. | `Python` |
-| <img src="assets/a-maze-ing_simple.png" width="40"> | **[A_maze_ing](https://github.com/alizealebaron/a_maze_ing)** | Génération de labyrinthe en python. | `Python` |
-| <img src="assets/fly-in.png" width="40"> | **[Fly-in](https://github.com/alizealebaron/fly-in)** | Optimisation d'algorithmes dans un graph. | `Python` |
+| <img src="assets/python-module.png" width="40"> | **[Python_Module](https://github.com/alizealebaron/python_module)** | 11 modules pour apprendre Python. | `Python` |
+| <img src="assets/a-maze-ing_simple.png" width="40"> | **[A_maze_ing](https://github.com/alizealebaron/a_maze_ing)** | Génération de labyrinthe en Python. | `Python` |
+| <img src="assets/fly-in.png" width="40"> | **[Fly-in](https://github.com/alizealebaron/fly-in)** | Optimisation d'algorithmes dans un graphe. | `Python` |
 | <img src="assets/call_me_maybe.png" width="40"> | **[Call_me_maybe](https://github.com/alizealebaron/call_me_maybe)** | Introduction aux LLM. | `Python` |
 | <img src="assets/codexion_simple.png" width="40"> | **[Codexion](https://github.com/alizealebaron/codexion)** | Gérer un problème avec des threads. | `C` |
 | <img src="assets/rag.png" width="40"> | **[RAG against the machine](https://github.com/alizealebaron/RAG_against_the_machine)** | Développement d'un RAG. | `Python` |
 | <img src="assets/pac_man.png" width="40"> | **[Pac_man](https://github.com/alizealebaron/pac_man)** | Recréer un jeu mythiquement connu. | `Python` |
-| <img src="assets/net_Practice.png" width="40"> | **[NetPractice](https://github.com/alizealebaron/netPractice)** | Configuration de petit réseau. | `Réseau` |
-<!-- | <img src="assets/inception.png" width="40"> | **[Inception](https://github.com/alizealebaron/inception)** | Apprendre à utiliser docker. | `Docker` | -->
+| <img src="assets/net_Practice.png" width="40"> | **[NetPractice](https://github.com/alizealebaron/netPractice)** | Configuration d'un petit réseau. | `Réseau` |
+<!-- | <img src="assets/inception.png" width="40"> | **[Inception](https://github.com/alizealebaron/inception)** | Apprendre à utiliser Docker. | `Docker` | -->
+</div>
+</details>
 
----
+<details>
+<summary><h3 style="display: inline;">BUT Informatique · 3 projets</h3></summary>
+<br>
 
-## 🛠️ Langages et Outils
-![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,html,css,js,git,docker,linux,photoshop,illustrator)
+<div align="center">
 
----
+| Titre | Description | Technologies |
+| :--- | :--- | :---: |
+| **[Malen](https://github.com/alizealebaron/Malen)** | Reproduire Paint mais en Java. | `Java` |
+| **[ASTRE](https://github.com/alizealebaron/ASTRE)** | Développer une première application utilitaire en Java. | `Java` |
+| **[CinkeTera](https://github.com/alizealebaron/CinkeTera)** | Reproduire un jeu de plateau à l'aide de Java. | `Java` |
 
 </div>
 
-<h2>Stats</h2>
-    <table style="height: 100%; width: 100%;">
-        <tr style="height: 50%;">
-            <td style="vertical-align: stretch; height: 100%;">
-                <img src="https://github-readme-stats.vercel.app/api?username=alizealebaron&hide_border=true&border_radius=15&show_icons=true&theme=tokyonight" alt="alizealebaron's GitHub stats" style="height: 100%; width: 100%; object-fit: cover;">
-            </td>
-            <td style="vertical-align: stretch; height: 100%;">
-                <img width=100% height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizealebaron&hide=html&hide_border=true&border_radius=8&layout=compact&langs_count=8&theme=tokyonight" alt="alizealebaron's Most Used Languages" style="height: 100%; width: 100%; object-fit: cover;">
-            </td>
-        </tr>
-        <tr style="height: 50%;">
-            <td style="vertical-align: stretch; height: 100%;">
-                <img width=96% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alizealebaron&hide_border=true&border_radius=15&theme=tokyonight" alt="alizealebaron's GitHub graph" style="height: 100%; width: 100%; object-fit: cover;">
-            </td>
-            <td style="vertical-align: stretch; height: 100%;">
-                <a href="https://profile.intra.42.fr/users/alizealebaron">
-                    <img src="https://badge.mediaplus.ma/darkblue/alebaron?1337Badge=off&UM6P=off" alt="alebaron" style="height: 100%; width: 100%; object-fit: cover;">
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
+</details>
 
-![profile count](https://komarev.com/ghpvc/?username=alizealebaron&color=red)&nbsp;
+## Mes statistiques
 
----
-**Contact :** alebaron@student.42lehavre.fr
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" height="195" style="display: block;" src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=alizealebaron&layout=compact&theme=neon&hide_border=true" alt="Langages les plus utilisés sur mon GitHub">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" height="195" style="display: block;" src="https://github-readme-stats-ten-pi-74.vercel.app/api?username=alizealebaron&show_icons=true&theme=neon&hide_border=true" alt="Statistiques GitHub d'Alizéa Lebaron">
+    </td>
+  </tr>
+</table>
 
-<!---
-alizealebaron/alizealebaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contactez-moi !
+
+<p align="center">
+  <a href="mailto:alebaron@student.42lehavre.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white" alt="Mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/alizealebaron/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=alizealebaron&color=green&style=flat" alt="Views" />
+</p>
