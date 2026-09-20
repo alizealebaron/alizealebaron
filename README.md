@@ -59,6 +59,7 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
 | <img src="assets/rag.png" width="40"> | **[RAG against the machine](https://github.com/alizealebaron/RAG_against_the_machine)** | Développement d'un RAG. | `Python` |
 | <img src="assets/pac_man.png" width="40"> | **[Pac_man](https://github.com/alizealebaron/pac_man)** | Recréer un jeu mythiquement connu. | `Python` |
 | <img src="assets/net_Practice.png" width="40"> | **[NetPractice](https://github.com/alizealebaron/netPractice)** | Configuration d'un petit réseau. | `Réseau` |
+| <img src="assets/tap.png" width="40"> | **[The_Answer_Protocol](https://github.com/alizealebaron/the_answer_protocol)** | Une aventure textuelle dans un univers partagé. | `Go` |
 <!-- | <img src="assets/inception.png" width="40"> | **[Inception](https://github.com/alizealebaron/inception)** | Apprendre à utiliser Docker. | `Docker` | -->
 </div>
 </details>
