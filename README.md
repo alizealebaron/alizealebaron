@@ -14,7 +14,7 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
 
 <div align="center">
 
-![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,html,css,js,git,docker,linux,photoshop,illustrator)
+![Mes compétences](https://skillicons.dev/icons?i=c,java,php,python,go,html,css,js,git,docker,linux,photoshop,illustrator)
 
 </div>
 
@@ -28,7 +28,7 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
   <tr>
     <td align="center"><strong>14</strong><br>Projets 42</td>
     <td align="center"><strong>3</strong><br>Projets BUT</td>
-    <td align="center"><strong>12</strong><br>Technologies explorées</td>
+    <td align="center"><strong>13</strong><br>Technologies explorées</td>
   </tr>
 </table>
 
