@@ -77,16 +77,10 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
 
 ## Mes statistiques
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" height="195" style="display: block;" src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=alizealebaron&layout=compact&theme=neon&hide_border=true" alt="Langages les plus utilisés sur mon GitHub">
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" height="195" style="display: block;" src="https://github-readme-stats-ten-pi-74.vercel.app/api?username=alizealebaron&show_icons=true&theme=neon&hide_border=true" alt="Statistiques GitHub d'Alizéa Lebaron">
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img width="49%" height="195" src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=alizealebaron&layout=compact&theme=neon&hide_border=true" alt="Langages les plus utilisés sur mon GitHub">
+    <img width="49%" height="195" src="https://github-readme-stats-ten-pi-74.vercel.app/api?username=alizealebaron&show_icons=true&theme=neon&hide_border=true" alt="Statistiques GitHub d'Alizéa Lebaron">
+</p>
 
 ## Contactez-moi !
 
