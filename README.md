@@ -34,7 +34,6 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
 
 <details>
 <summary><h3 style="display: inline;">Cursus 42 · 14 projets</h3></summary>
-<br>
 
 <div align="center">
 <h4>🏛️ Ancien tronc commun (avant décembre 2025)</h4>
@@ -47,7 +46,6 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
 | <img src="assets/ft-printf.png" width="40"> | **[Ft_printf](https://github.com/alizealebaron/ft_printf)** | Reproduction de la fonction printf. | `C` |
 | <img src="assets/push-swap_simple.png" width="40"> | **[Push_swap](https://github.com/alizealebaron/push_swap)** | Apprendre à trier efficacement les piles. | `C` |
 | <img src="assets/so-long_simple.png" width="40"> | **[So_long](https://github.com/alizealebaron/so_long)** | Un premier essai de jeu vidéo simple. | `C` |
-
 
 <h4>✨ Nouveau tronc commun (à partir de décembre 2025)</h4>
 
