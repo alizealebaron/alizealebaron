@@ -26,14 +26,14 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
 
 <table align="center">
   <tr>
-    <td align="center"><strong>14</strong><br>Projets 42</td>
+    <td align="center"><strong>15</strong><br>Projets 42</td>
     <td align="center"><strong>3</strong><br>Projets BUT</td>
     <td align="center"><strong>13</strong><br>Technologies explorées</td>
   </tr>
 </table>
 
 <details>
-<summary><h3 style="display: inline;">Cursus 42 · 14 projets</h3></summary>
+<summary><h3 style="display: inline;">Cursus 42 · 15 projets</h3></summary>
 
 <div align="center">
 <h4>🏛️ Ancien tronc commun (avant décembre 2025)</h4>
@@ -60,7 +60,7 @@ Actuellement étudiante à 42 Le Havre, j'aime découvrir et apprendre à maîtr
 | <img src="assets/pac_man.png" width="40"> | **[Pac_man](https://github.com/alizealebaron/pac_man)** | Recréer un jeu mythiquement connu. | `Python` |
 | <img src="assets/net_Practice.png" width="40"> | **[NetPractice](https://github.com/alizealebaron/netPractice)** | Configuration d'un petit réseau. | `Réseau` |
 | <img src="assets/tap.png" width="40"> | **[The_Answer_Protocol](https://github.com/alizealebaron/the_answer_protocol)** | Une aventure textuelle dans un univers partagé. | `Go` |
-<!-- | <img src="assets/inception.png" width="40"> | **[Inception](https://github.com/alizealebaron/inception)** | Apprendre à utiliser Docker. | `Docker` | -->
+| <img src="assets/inception.png" width="40"> | **[Inception](https://github.com/alizealebaron/inception)** | Apprendre à utiliser Docker. | `Docker` |
 </div>
 </details>
 
